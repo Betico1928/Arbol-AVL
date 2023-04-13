@@ -1,0 +1,3 @@
+/Users/case/CLionProjects/Árbol AVL/cmake-build-debug/CMakeFiles/Arbol_AVL.dir
+/Users/case/CLionProjects/Árbol AVL/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/case/CLionProjects/Árbol AVL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
